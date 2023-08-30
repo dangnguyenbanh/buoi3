@@ -1,1 +1,6 @@
 E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\buoi3\buoi3\bin\Debug\buoi3.exe.config
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\buoi3\buoi3\obj\Debug\buoi3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\buoi3\buoi3\bin\Debug\buoi3.exe
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\buoi3\buoi3\bin\Debug\buoi3.pdb
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\buoi3\buoi3\obj\Debug\buoi3.exe
+E:\LuuDuLieuSinhVien\Congnghenet-DangNguyenBanh\buoi3\buoi3\obj\Debug\buoi3.pdb
